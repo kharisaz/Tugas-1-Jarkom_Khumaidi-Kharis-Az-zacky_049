@@ -23,8 +23,6 @@ Total Host: **772** host
 ## VLSM
 ![VLSM](src/vlsm.png)
 
-![Konsep VLSM](src/vlsm_k.png)
-
 ## Skema Alokasi VLSM
 
 | Col | Subnet | Kebutuhan | Prefix | Available Host | Mask | NID | Broadcast | IP Available | Gateway |
@@ -42,8 +40,6 @@ Total Host: **772** host
 
 ## CIDR
 ![CIDR](src/cidr.png)
-
-![Konsep CIDR](src/cidr_k.png)
 
 ## Skema Alokasi CIDR
 
